@@ -24,7 +24,7 @@ public class Product {
     private String category;
     private Long quantity;
     private String description;
-    private String price;
-    private LocalDateTime createdOn =LocalDateTime.now();
+    private Long price;
+    private LocalDateTime createdOn = LocalDateTime.now();
 
 }

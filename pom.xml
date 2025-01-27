@@ -11,8 +11,8 @@
     <groupId>com.slippery</groupId>
     <artifactId>micro-services</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>micro-services</name>
-    <description>micro-services</description>
+    <name>product-service</name>
+    <description>product-service</description>
     <url/>
     <licenses>
         <license/>
